@@ -1,0 +1,72 @@
+
+body {
+    font-family: 'Merriweather', serif;
+    background-color: grey;
+}
+  h1 {
+    color:blue;
+}
+h2 {
+    font-size: 250%;
+}
+.background-white{
+    background-color: white;
+}
+.background{
+    background: #eee;
+}
+.heading{
+    background-color: black;
+    color: white;
+}
+.img-fluid{
+    padding-top: 20px;
+}
+.fas, .fab{
+    font-size: 30px;
+}   
+.fa-at {
+    color: #e82f22;
+}
+.fa-phone-square{
+    color: #27dc2f;
+}
+.fa-home, .fa-linkedin {
+    color:#2196f3; 
+}
+.text-padding{
+    padding-top: 7px;
+}
+.text-padding-2{
+    padding-top: 15px;
+}
+.padding-bottom{
+    padding-bottom: 15px;
+}
+.font-size{
+    font-size: 14px;
+}
+.font-size-agreement{
+    font-size: 12px;
+}
+.text-color{
+    color:#2196f3;
+    font-weight: bold;
+}
+.text-weight{
+    font-weight: bold;
+}
+.fa-graduation-cap{
+    font-size: 30px;
+}
+.break{
+    word-wrap: break-word;
+}
+@media print {
+ .border-2{
+     border: 1px;
+ }
+ body{
+background: no-repeat;
+ }
+  } 
